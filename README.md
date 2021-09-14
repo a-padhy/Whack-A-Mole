@@ -1,5 +1,7 @@
 # Whack-A-Mole
 
+Make sure you try out this fun arcade game!
+
 ### Screenshot
 
 ![screenshot](./screenshot/screenshot.png)
